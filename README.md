@@ -1,0 +1,1 @@
+# -vetor-numero_inverso_pares
